@@ -71,7 +71,6 @@
 				6C51F4421F565C4500C9E9A5 /* Model */,
 				6C51F4411F565C3F00C9E9A5 /* Controller */,
 				6C51F42F1F5657EC00C9E9A5 /* AppDelegate.swift */,
-				6C51F4311F5657EC00C9E9A5 /* CategoriesVC.swift */,
 				6C51F4331F5657EC00C9E9A5 /* Main.storyboard */,
 				6C51F4361F5657EC00C9E9A5 /* Assets.xcassets */,
 				6C51F4381F5657EC00C9E9A5 /* LaunchScreen.storyboard */,
@@ -83,6 +82,7 @@
 		6C51F4411F565C3F00C9E9A5 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				6C51F4311F5657EC00C9E9A5 /* CategoriesVC.swift */,
 				6C4B13C51F57C99E008CFD5E /* ProductsVC.swift */,
 			);
 			path = Controller;
